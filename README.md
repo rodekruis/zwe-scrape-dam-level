@@ -6,7 +6,7 @@ Built to support  Zimbabwe Red Cross Society (ZRCS).
 
 ## Setup
 Generic requirements:
--   OPTIONAL (upload to Azure datalake): [Azure account](https://azure.microsoft.com/en-us/get-started/) and 
+-   OPTIONAL (upload to Azure datalake): active [Azure account](https://azure.microsoft.com/en-us/get-started/) and [Azure Data Lake Storage Gen2](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
 
 ### with Docker
 1. Install [Docker](https://www.docker.com/get-started)
